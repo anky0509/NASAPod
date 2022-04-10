@@ -13,6 +13,19 @@ network unavailability.
 NASA’s open APIs ( https://api.nasa.gov/ ) and in particular, the APOD (
 Astronomy picture of the day ) resource.
 
+ScreenShots 
+
+<h3 align="center">
+<img width="336" src="screen3.png" alt="Screenshot of APOD for iOS" />
+</h3>
+
+<h3 align="center">
+<img width="336" src="screen1.png" alt="Screenshot of APOD for iOS" />
+</h3>
+
+<h3 align="center">
+<img width="336" src="screen2.png" alt="Screenshot of APOD for iOS" />
+</h3>
 
 ## Credit
 - Data courtesy of [NASA](https://api.nasa.gov) 🛰
